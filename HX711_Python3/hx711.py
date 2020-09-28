@@ -6,7 +6,7 @@ This file holds HX711 class
 import statistics as stat
 import time
 
-import RPi.GPIO as GPIO
+import Adafruit_BBIO.GPIO as GPIO
 
 
 class HX711:
